@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual lingua é falada no japão?',
-    'é falado japones'
+    'É falado japones'
 )
 
 criaCartao(
